@@ -45,7 +45,7 @@ git push -u origin main
 
 > This resets Git history in your local copy. If you want to keep upstream history, do not remove `.git`; instead just update the `origin` remote URL.
 
-**Note**: The used structure predictions tools (AF2 initial guess, ColabFold, Boltz and AF3) require seperate installations.
+**Note**: The used structure predictions tools (AF2 initial guess, ColabFold, Boltz and AF3) require separate installations.
 
 ---
 
@@ -380,5 +380,4 @@ If you use any of the following tools or methods, please also cite:
 
 - **DockQ**  
   [https://doi.org/10.1093/bioinformatics/btae586](https://doi.org/10.1093/bioinformatics/btae586)  
-
 
